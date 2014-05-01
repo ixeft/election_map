@@ -1,0 +1,9 @@
+path {
+    stroke: #000000;
+}
+
+circle {
+    fill: #000;
+    pointer-events: none;
+}
+
