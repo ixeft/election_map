@@ -1,0 +1,4 @@
+election_viewer:
+    resource: "@ElectionViewerBundle/Resources/config/routing.yml"
+    prefix:   /
+

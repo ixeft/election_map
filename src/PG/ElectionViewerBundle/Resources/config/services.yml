@@ -1,0 +1,7 @@
+parameters:
+#    election_viewer.example.class: PG\ElectionViewerBundle\Example
+
+services:
+#    election_viewer.example:
+#        class: %election_viewer.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
