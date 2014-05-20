@@ -14,6 +14,34 @@
     "lat": "48.7551925"
   },
   {
+    "bureau": "92002_006",
+    "bureau_name": "Bureau n°8 ECOLE ELEMENTAIRE LA FONTAINE",
+    "adresse": "12, rue Pierre Kohlmann",
+    "vote_blanc": 20,
+    "vote_exprime": 582,
+    "vote_buguat": 29,
+    "vote_fdg": 48,
+    "vote_ps": 128,
+    "vote_ump": 377,
+    "inscrit": 995,
+    "lon": "2.318725",
+    "lat": "48.770109"
+  },
+  {
+    "bureau": "92002_006",
+    "bureau_name": "Bureau n°9 ECOLE ELEMENTAIRE LA FONTAINE",
+    "adresse": "12, rue Pierre Kohlmann",
+    "vote_blanc": 32,
+    "vote_exprime": 498,
+    "vote_buguat": 22,
+    "vote_fdg": 72,
+    "vote_ps": 125,
+    "vote_ump": 279,
+    "inscrit": 911,
+    "lon": "2.318725",
+    "lat": "48.770109"
+  },
+  {
     "bureau": "92002_001",
     "bureau_name": "Bureau n°1 HÔTEL DE VILLE - SALLE DU CONSEIL",
     "adresse": "Place de l'Hôtel de Ville",
